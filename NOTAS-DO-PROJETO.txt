@@ -1,0 +1,15 @@
+PRÉVIA — CLÍNICA TANNOURI
+
+Página única de fonoaudiologia. Ainda não publicada.
+Arquivos da página: pasta dist. Abra index.html ou visualize pelo endereço local http://127.0.0.1:4173 enquanto a prévia estiver ativa.
+
+Fontes consultadas:
+https://clinicatannouri.com.br/fonoaudiologia/
+https://clinicatannouri.com.br/depoimentos/
+https://clinicatannouri.com.br/profissionais-vinculados/
+
+Logo fornecida pelo usuário. Foto da profissional e fotos dos depoimentos obtidas do site da clínica.
+Depoimentos resumidos e identificados como resumos, mantendo link aos relatos completos.
+WhatsApp confirmado no componente de contato do site: +55 47 3434-1817.
+
+Antes da publicação, confirmar dados atuais da profissional, número/formato de registro no CRFa e aprovação dos textos de perguntas frequentes. As páginas do site divergem quanto ao bairro; a prévia usa apenas rua, número e cidade, comuns às fontes.
